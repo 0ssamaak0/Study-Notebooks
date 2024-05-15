@@ -1,0 +1,1 @@
+Following the notebooks of [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
